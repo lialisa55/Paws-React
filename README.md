@@ -1,11 +1,7 @@
-# Sample Snack app
+# Preview de páginas do Paws
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+Paws é um projeto feito para facilitar o contato entre doadores de animais e pessoas interessadas em adotar. Esse aplicativo feito em React Native é parte de um projeto maior que pretende se expandir também para Web. Atualmente ele conta apenas com essa versão, que tem como funções as páginas funcionais conectadas ao Firebase de registro e acesso e a página principal não funcional de adoção.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
-
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
-
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+![paws-react-acesso](https://github.com/lialisa55/Paws-React/assets/119463033/34284512-94b9-4903-b27c-4c7d45be4683)
+![paws-react-cadastro](https://github.com/lialisa55/Paws-React/assets/119463033/f76cfcc1-573d-4776-b1b6-0dfe5687a9ad)
+![paws-react-arthur](https://github.com/lialisa55/Paws-React/assets/119463033/f7be2256-964e-4f6e-8eeb-3151511e03c6)
